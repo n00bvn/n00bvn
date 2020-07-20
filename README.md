@@ -10,4 +10,4 @@ I’ve dealt with real online services, specially SaaS applicaCons. With experie
 
 Remotely working as a full-stack developer is truly my dream.
 
-I created a very simple blog/portfolio application (ReactJS and Firebase app), please feel free to check it out at: https://n00bvn.github.io/thaw-dev
+I created a very simple blog/portfolio application (ReactJS and Firebase app), please feel free to check it out at: https://thaw.dev
