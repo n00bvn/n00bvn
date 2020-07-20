@@ -1,16 +1,13 @@
-### Hi there 👋
+**Thaw - Full stack developer | Ruby, Python, React, Meteor**
 
-<!--
-**n00bvn/n00bvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Thaw. I'm currently living in Hanoi city, Vietnam.
 
-Here are some ideas to get you started:
+I’ve 6+ years Ruby experience, 1+ year React experience, 1 year Python experience and 3+ years Meteor experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I hate doing things repeatedly, that’s why I love programming. From using my computer to how I deploy applicaCons or managing servers, I always love writing my own scripts.
+
+I’ve dealt with real online services, specially SaaS applicaCons. With experience of building apps from scratch, I can make my own deploying, testing and benchmarking scripts. I faced high traffic services, so making stable applicaCons as well as configuring load balanced servers could not embarrass me.
+
+Remotely working as a full-stack developer is truly my dream.
+
+I created a very simple blog/portfolio application (ReactJS and Firebase app), please feel free to check it out at: https://n00bvn.github.io/thaw-dev
