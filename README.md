@@ -4,9 +4,11 @@ My name is Thaw. I'm currently living in Hanoi city, Vietnam.
 
 I’ve 6+ years Ruby experience, 1+ year React experience, 1+ year Python experience and 3+ years Meteor experience.
 
-I hate doing things repeatedly, that’s why I love programming. From using my computer to how I deploy applications or managing servers, I always love writing my own scripts.
+I hate doing things repeatedly, that’s why I love programming. From using my computer to deploying applications or managing servers, I always love writing my own scripts.
+I do believe coding is mainly about the mindset and logic!
 
-I’ve dealt with real online services, specially SaaS applications. With experience of building apps from scratch, I can make my own deploying, testing and benchmarking scripts. I faced high traffic services, so making stable applications as well as configuring load balanced servers could not embarrass me.
+
+I’ve dealt with real online services, specially SaaS applications. With experience of designing and building apps from scratch, I can make my own deploying, testing and benchmarking scripts. I faced high traffic services, so making stable applications as well as configuring load balanced servers could not embarrass me.
 
 Remotely working as a full-stack developer is truly my dream.
 
