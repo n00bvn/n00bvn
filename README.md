@@ -1,6 +1,6 @@
-**Thaw - Full stack developer | Ruby, Python, React, Flutter**
+**Thaw - Full stack developer | Ruby, React, Flutter**
 
-I am Thaw, a full stack developer with 7+ years Ruby, 2+ years React, 1+ years Python and 1+ years Flutter experience.
+I am Thaw, a full stack developer with 7+ years Ruby, 2+ years React and 1+ years Flutter experience.
 
 I hate doing things repeatedly, that’s why I love programming. And I do believe coding is mainly about the mindset and logic.
 
