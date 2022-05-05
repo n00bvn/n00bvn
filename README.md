@@ -8,7 +8,7 @@ I’ve dealt with real online services, specially SaaS applications. With experi
 
 I do believe that dealing with real traffic and real online service is much more complicated than building a MVP.
 
-Currently, I'm focusing on Ruby, Python, React & Flutter. I’d like to learn more about ML, AI & Web 3.0 in the future.
+Currently, I'm focusing on Ruby, React & Flutter. I’d like to learn more about ML, AI & Web 3.0 in the future.
 
 Remotely working as a full-stack developer is truly my dream.
 
