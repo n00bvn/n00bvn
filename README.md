@@ -1,17 +1,9 @@
-**Thaw - Senior Software Engineer | Ruby, React, Flutter**
+**Thaw - Senior Software Engineer | AI, Ruby, Python, Javascript, Dart**
 
-My name is Thaw, and I am a full-stack developer with over 8 years of experience in Ruby, more than 2 years in React, over a year in Python, and 2+ years in Flutter.
+I'm a passionate software engineer with over 10 years of experience building scalable applications and monitoring production systems. My journey spans from co-founding and scaling a SaaS platform that served 10k+ clients to working with industry leaders like Uber on global car-sharing platforms.
 
-I have a passion for programming that ranges from creating sorting algorithms to publishing production applications.
+Currently, I'm exploring the frontiers of AI, LLMs, and Agents as a SoloFounder at Pando and Lily, LLC, where I've built real-world AI applications including Paperboy News and Datumize AI. I thrive on solving complex technical challenges and have extensive experience in system design, database optimization, application monitoring, and building robust, production-ready applications.
 
-I have extensive experience with real online services, particularly SaaS. This includes designing and building applications from scratch that served over 10,000 clients, managing and monitoring real traffic, and contributing to applications with millions of users. My experiences have equipped me to handle a variety of challenges—from fixing bugs and refactoring features to scaling stable services and configuring multiple servers—without difficulty.
+Coding is my passion — I love the problem-solving aspect, the continuous learning, and the satisfaction of building something that makes a real impact. Whether it's optimizing database performance by 30%, managing zero-downtime deployments, or architecting new features from scratch, I approach every project with enthusiasm and attention to detail.
 
-I firmly believe that managing real traffic and online services is significantly more complex than developing a Minimum Viable Product (MVP). Moreover, I hold that coding, a passion of mine, is primarily about mindset and logic.
-
-I advocate for the perspective that software engineers should design software, not merely code it. I am a quick learner, a diligent team member, and a positive individual.
-
-Currently, I'm focusing on Ruby, React & Flutter. I’d like to learn more about ML, AI & Web 3.0 in the future.
-
-While some people dream big, my ultimate dream is to work remotely as a full-stack developer!
-
-I created a very simple blog/portfolio application (w/ React & Firebase), please feel free to check it out at: https://thaw.dev
+Please feel free to check my profile at: https://thaw.dev
